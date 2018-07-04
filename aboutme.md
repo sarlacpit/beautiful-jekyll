@@ -1,16 +1,22 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Who Am I?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Greetings, you are reading this because you wanted to know more about me.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I love music, open soruce, my family & the occasional beer
+- I dislike not learning new things fully
+- I like the idea of a simple life
 
-What else do you need?
+I have some credentials:
+
+* Linux Foundation Certified Sysadmin
+* AWS Cloud Practioner
+* ITILv4 Foundation
+* SDA 
 
 ### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I have history, most of it is on LinkedIn though it is poorly kept - If you would like some updated information just let me know.
