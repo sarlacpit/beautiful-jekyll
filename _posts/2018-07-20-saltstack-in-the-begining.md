@@ -24,10 +24,17 @@ proxy:
 
 After trying to bring up the proxy-minion, i receive an error which has bamboozled me as my YAML is valid and they syntax is apprently correct (according to the networktocode folks on Slack) so something else must be a little wrong.:
 
-```salt-run pillar.show_pillar 'as1.test'
+salt-run pillar.show_pillar 'as1.test'
 [ERROR   ] Specified SLS 'as1.test' in environment 'base' is not available on the salt master
 [ERROR   ] Template was specified incorrectly: False
 [CRITICAL] Pillar render error: Specified SLS 'as1.test' in environment 'base' is not available on the salt master
 _errors:
     - Specified SLS 'as1.test' in environment 'base' is not available on the salt master
-    ```
+
+
+What annoys me is that I have been able to achieve this once before, however it was about a month ago and I decided to rebuild the lab again with out any notes of my previous lab. It has made me feel like a cowboy. Though this way will enrichen the learning process.
+
+While I do not have an answer to this problem yet, I have considered the documentations and I think I have a lot missing. Trying to run before I walk, I suppose.
+
+
+
