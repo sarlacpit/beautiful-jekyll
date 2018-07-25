@@ -5,6 +5,8 @@ title: A System Engineer's Orchestration of many ideas.
 subtitle: 'Whoa, I know kung-fu.'
 date: '2018-07-24'
 ---
+![firefight.jpeg]({{site.baseurl}}/img/firefight.jpeg)
+
 OK, I have a few study plans up my sleeve. In fact I have a lot of things I wish to learn.
 I have used Puppet, Chef, Ansible and Salt. I have used LXD and Docker, Kubernetes; KVM, VMWare and Citrix - it's a horrible mess of information, what are the best solutions to my problems? All of the above are great tools, but the selection needs to be appropriate.
 
@@ -39,11 +41,3 @@ If you got knocked back you need to understand the reasons for the declined busi
 **Conclusion**
 
 At the end of the day, when the whistle blows and you slide down that proverbial dinosaur tail nothing may change but you have spent your time learning new software and solutions which can only make you a better engineer.
-
-
-
-
-
-
-
-
