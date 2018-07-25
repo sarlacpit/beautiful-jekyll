@@ -1,7 +1,9 @@
 ---
 layout: post
-published: false
-title: Orchestration of many ideas
+published: true
+title: A System Engineer's Orchestration of many ideas.
+subtitle: 'Whoa, i know kung-fu.'
+date: '2018-07-24'
 ---
 OK, I have a few study plans up my sleeve. In fact I have a lot of things I wish to learn.
 I have used Puppet, Chef, Ansible & Salt. I have used LXD & Docker, Kubernetes; KVM, VMWare & Citrix - it's a horrible mess of information, what are the best solutions to my problems? All of the above are great tools, but the selection needs to be appropriate.
