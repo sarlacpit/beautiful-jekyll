@@ -6,7 +6,7 @@ subtitle: 'Whoa, I know kung-fu.'
 date: '2018-07-24'
 ---
 OK, I have a few study plans up my sleeve. In fact I have a lot of things I wish to learn.
-I have used Puppet, Chef, Ansible \& Salt. I have used LXD & Docker, Kubernetes; KVM, VMWare \& Citrix - it's a horrible mess of information, what are the best solutions to my problems? All of the above are great tools, but the selection needs to be appropriate.
+I have used Puppet, Chef, Ansible \& Salt. I have used LXD \& Docker, Kubernetes; KVM, VMWare \& Citrix - it's a horrible mess of information, what are the best solutions to my problems? All of the above are great tools, but the selection needs to be appropriate.
 
 If you have mastered one software then what is to say there is a change of modus operandi and you find yourself limited due to hardware, time and money but expectations are for you to dive in and rebuild your entire infrastructure.
 
@@ -18,7 +18,7 @@ The only guidance I can give is to keep it simple and ask your self what you wis
 
 List it down.
 
-**What software will do the job well**
+**What software will do the job well?**
 
 From experience, I write this. This is probably the most important decision you'll have to make. Don't just wade in to the first software because it is trendy. It might not be appropriate for various reasons. Looking at your list conduct some research and take your time doing so. Use the Internet, ask Twitter, Redit, Slack, Github. Even if you are introverted, you could do well to go to meetups, conferences and participate in webinars. Then finally get the opinions of your colleagues - They might know something you don't. Be sure to ask about scalability. Five years down the line, the budget you blew on the platform may not be available to you and the finance folks might just point and laugh instead of giving you some room to wiggle.
 At the end of it all, look at your list and write down the software that ticks the boxes and a pros & cons list. It might be that the solution you had set your heart on is missing a few tricks. 
