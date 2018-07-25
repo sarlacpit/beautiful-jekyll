@@ -40,4 +40,4 @@ If you got knocked back you need to understand the reasons for the declined busi
 
 **Conclusion**
 
-At the end of the day, when the whistle blows and you slide down that proverbial dinosaur tail nothing may change but you have spent your time learning new software and solutions which can only make you a better engineer.
+At the end of the day, when the whistle blows and you slide down that proverbial dinosaur tail nothing may change, but you have spent your time learning new software and solutions which can only make you a better engineer.
