@@ -6,7 +6,7 @@ subtitle: 'Whoa, I know kung-fu.'
 date: '2018-07-24'
 ---
 OK, I have a few study plans up my sleeve. In fact I have a lot of things I wish to learn.
-I have used Puppet, Chef, Ansible \& Salt. I have used LXD \& Docker, Kubernetes; KVM, VMWare \& Citrix - it's a horrible mess of information, what are the best solutions to my problems? All of the above are great tools, but the selection needs to be appropriate.
+I have used Puppet, Chef, Ansible and Salt. I have used LXD and Docker, Kubernetes; KVM, VMWare and Citrix - it's a horrible mess of information, what are the best solutions to my problems? All of the above are great tools, but the selection needs to be appropriate.
 
 If you have mastered one software then what is to say there is a change of modus operandi and you find yourself limited due to hardware, time and money but expectations are for you to dive in and rebuild your entire infrastructure.
 
