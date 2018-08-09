@@ -49,9 +49,8 @@ proxy:
 
 
 
-##
+#NAPALM#
 
-NAPALM
 In a nutshell NAPALM is a python library which you can query without the use of Saltstack which is a good troubleshooting tool.
 
 
