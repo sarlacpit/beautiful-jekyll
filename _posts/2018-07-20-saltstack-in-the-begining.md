@@ -12,14 +12,18 @@ Since then, I have trying to find the time to create a simplistic lab with a Sal
 
 So after defining my pillar_roots on my master, I have created a top.sls file & a as1.test.sls file in the pillar_roots
 
-``` top.sls
+so... top.sls
+
+``` 
 base:
   'as1.test':
     - as1_test
   'pe1.test':
     - pe1_test
 ```
+
 as1_test.sls
+
 ```
 proxy:
   proxytype: napalm
