@@ -3,7 +3,7 @@ layout: post
 published: false
 title: SaltStack - In the begining
 ---
-![Waving hand in the ocean - photo by Mishal Ibrahim]({{site.baseurl}}/img/mishal-ibrahim-615607-unsplash.jpg)![mishal-ibrahim-615607-unsplash.jpg]
+![Waving hand in the ocean - photo by Mishal Ibrahim]({{site.baseurl}}/img/mishal-ibrahim-615607-unsplash.jpg)
 
 
 In the begining, I had attended the OSS Summit and achieved a level of enlightenment from a talk by @supertylerc. The subject was Network Automation. His demostration provided the use of Saltstack, proxy minions and some networking devices and how after taking a port down, managed to get the OSPF matric changed almost instantly.
@@ -31,9 +31,19 @@ proxy:
 
 There is a lot of talk about Cisco devices but it took 6 hours of searching to find that if you are using ios-xe you can use the NAPALM ios driver.
 
-```
+pe1_test.sls
 
 ```
+proxy:
+  proxytype: napalm
+  driver: ios
+  host: pe1.test
+  username: mcparty
+  passwd: WordUp
+  
+```
+
+
 
 ##
 
