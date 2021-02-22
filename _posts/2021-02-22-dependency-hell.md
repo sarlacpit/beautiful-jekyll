@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Dependency Hell
 ---
 ![Photo By Asa Rodger]({{site.baseurl}}/img/asa-rodger-nezHaCwch2w-unsplash.jpg)
