@@ -12,6 +12,7 @@ Greetings, you are reading this because you wanted to know more about me.
 
 I have some credentials:
 
+* CISSP
 * Linux Foundation Certified Sysadmin
 * AWS Cloud Practioner
 * ITILv4 Foundation
